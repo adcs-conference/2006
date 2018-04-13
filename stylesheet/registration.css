@@ -1,0 +1,12 @@
+/* QUT template - branch stylesheet */
+/* Should be used in conjunction with common QUT corporate template stylesheet - common.css */
+/* Copyright QUT 2006 */
+/* Version 3.0 */
+
+/* TOP NAVIGATION */
+/* (Active button for current branch) */
+
+.registration_button A{
+  background-color: #fff;
+  color: #666;
+}
